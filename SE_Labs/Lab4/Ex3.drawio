@@ -1,0 +1,136 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="prbTOP8XV4VgefBij35X">
+    <mxGraphModel dx="1997" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oia70EKSpO-TtbEJRM8G-69" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" value="" vertex="1">
+          <mxGeometry height="730" width="730" x="-50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-16" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Receptionnist&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Schedule Appointments&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Collect Patient&#39;s info&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="430" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-33" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="49.642857142857" y="490.10714285714266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="patient&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-20" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Inpatient&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="80" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-21" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="outpatient" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Register upon arrival&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="300" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Admit patient&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="210" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Be assigned a bed&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="450" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;File insurance claims and med reports&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="530" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-31" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-20" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="oia70EKSpO-TtbEJRM8G-19" value="">
+          <mxGeometry relative="1" width="80" x="0.36" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="87.5" y="570" />
+            </Array>
+            <mxPoint x="130" y="610" as="sourcePoint" />
+            <mxPoint x="210" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-32" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-21" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="oia70EKSpO-TtbEJRM8G-19" value="">
+          <mxGeometry relative="1" width="80" x="0.5575" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="42.499999999999886" y="570" />
+            </Array>
+            <mxPoint x="130" y="610" as="sourcePoint" />
+            <mxPoint x="210" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-42" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-25" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.214;exitY=0.963;exitDx=0;exitDy=0;entryX=0.577;entryY=-0.01;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" target="oia70EKSpO-TtbEJRM8G-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" x="-0.2391" y="27" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="420" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-46" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-16" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="oia70EKSpO-TtbEJRM8G-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="440" as="sourcePoint" />
+            <mxPoint x="360" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-48" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-16" style="endArrow=none;html=1;rounded=0;entryX=0.077;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;" target="oia70EKSpO-TtbEJRM8G-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="290" as="sourcePoint" />
+            <mxPoint x="360" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-49" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-19" style="endArrow=none;html=1;rounded=0;entryX=0.071;entryY=0.794;entryDx=0;entryDy=0;entryPerimeter=0;" target="oia70EKSpO-TtbEJRM8G-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="440" as="sourcePoint" />
+            <mxPoint x="360" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-50" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-19" style="endArrow=none;html=1;rounded=0;entryX=0.012;entryY=0.303;entryDx=0;entryDy=0;entryPerimeter=0;" target="oia70EKSpO-TtbEJRM8G-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="440" as="sourcePoint" />
+            <mxPoint x="360" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-51" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-20" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="oia70EKSpO-TtbEJRM8G-24" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="310" y="440" as="sourcePoint" />
+            <mxPoint x="360" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-54" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-18" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.946;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" target="oia70EKSpO-TtbEJRM8G-17" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" x="0.1235" y="18" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="460" y="170" as="sourcePoint" />
+            <mxPoint x="400" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-56" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-18" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.345;exitY=0.972;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.637;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" target="oia70EKSpO-TtbEJRM8G-22" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" x="-0.1792" y="31" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points" />
+            <mxPoint x="240" y="390" as="sourcePoint" />
+            <mxPoint x="400" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-58" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-18" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.048;exitY=0.722;exitDx=0;exitDy=0;exitPerimeter=0;" target="oia70EKSpO-TtbEJRM8G-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" x="-0.1465" y="28" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="290" y="294.24" as="sourcePoint" />
+            <mxPoint x="400" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-59" edge="1" parent="1" source="oia70EKSpO-TtbEJRM8G-16" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="oia70EKSpO-TtbEJRM8G-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="410" as="sourcePoint" />
+            <mxPoint x="320" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oia70EKSpO-TtbEJRM8G-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Hospital System&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="350" x="140" y="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
